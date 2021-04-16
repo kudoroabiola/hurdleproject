@@ -1,0 +1,90 @@
+body{
+    font-size: 18px;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 400;
+    margin: 0;
+    padding: 0;
+}
+header{
+    background-color: hsl(193, 100%, 96%);
+    background-image: url(../images/bg-hero-desktop.svg);
+    background-repeat: no-repeat;
+    height: 100vh;
+}
+nav{
+    padding-top: 40px;
+    display: flex;
+    justify-content: space-between;
+}
+.img-box{
+    margin-left: 56px;
+}
+.btn-box{
+    margin-right: 56px;
+}
+.btn1{
+    text-decoration: none;
+    color: #000;
+    font-weight: 700;
+    border: 1px solid #fff;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-right: 40px;
+    padding-left: 40px;
+    border-radius: 21px;
+    background-color: #fff;
+    box-shadow: 0px 4px 1px 2px #008b8b14;
+}
+.banner{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 90px;
+    margin-left: 54px;
+    margin-right: 54px;
+}
+.tty{
+    width: 376px;
+    height: 284px;
+p.desc{
+    line-height: 29px;
+    font-family: sans-serif;
+    font-weight: 400; 
+}
+.title{
+ font-family: 'Poppins', sans-serif;
+ font-weight: 600;
+}
+.text-w{
+    margin-top: 52px;
+}
+a.btn-2{
+    text-decoration: none;
+    color: white;
+    background-color: hsl(322, 100%, 66%);
+    margin-left: 54px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 40px;
+    padding-right: 40px;
+    border: 1px solid hsl(322, 100%, 66%);
+    border-radius: 19px;
+}
+.banner2{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 90px;
+    margin-left: 54px;
+    margin-right: 54px;  
+}
+.text-w{
+margin-top: 52px;
+}
+
+p.desc1{
+line-height: 29px; 
+}
+img.grow-ban{
+width: 376px;
+height: 284px;   
+}
+
