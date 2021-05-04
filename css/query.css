@@ -46,7 +46,7 @@
         background-color: hsl(193, 100%, 96%);
         background-image: url(../images/bg-hero-desktop.svg);
         background-repeat: no-repeat;
-        height: 160vh;
+        height: 200vh;
         width: 215%;
     }
     .logo2{
@@ -67,12 +67,12 @@
         color: white;
         background-color: hsl(322, 100%, 66%);
         margin-left: 54px;
-        padding-top: 25px;
-        padding-bottom: 25px;
-        padding-left: 180px;
-        padding-right: 180px;
+        padding-top: 10px;
+        padding-bottom: 10px;
+        padding-left: 40px;
+        padding-right: 40px;
         border: 1px solid hsl(322, 100%, 66%);
-        border-radius: 50px;
+        border-radius: 19px;
         margin-bottom: 10px;
     }
 
@@ -162,7 +162,7 @@
     }
     footer {
         background-color: hsl(192, 100%, 9%);
-        height: 149vh;
+        height: 200vh;
         margin-top: 90px;
         width: 215%;
     }
@@ -201,13 +201,15 @@
         padding-top: 2%;
         margin-top: 13%;
     }
-    .button-box {
-        margin-right: 16px;
+    .button2 {
+        margin-left: 24%;
+        margin-top: 10%;
+
     }
     .title1{
         text-align: center;
         font-size: 50px;
-        margin-top: 15%;
+        margin-top: 5%;
     }
     .desc{
         text-align: center;
@@ -218,7 +220,7 @@
         line-height: 1.3;
     }
     .text-b{
-        margin-left: 5%;
+        margin-left: -7%;
         margin-top: 9%;
     }
     .box1{
